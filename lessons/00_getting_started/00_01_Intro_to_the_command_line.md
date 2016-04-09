@@ -1,4 +1,4 @@
-#Intro to the command line
+#Intro to the command line (yeah!)
 
 Welcome!  The command can be one of the most powerful ways to interact with a variety of computer systems, but it can also be a little confusing at first glance.  This mini-crash-course should help familiarize you with the basics of command line usage and navigation.  
 
